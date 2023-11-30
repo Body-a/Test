@@ -1,0 +1,15 @@
+.root {
+    -fx-background-color: #6fb986;
+}
+
+.button{
+    -fx-background-color: linear-gradient(#bbc7bb, #4ce753);
+    -fx-text-fill: #777777;
+    -fx-font-size: 10;
+    -fx-font-family: "Helvetica";
+    -fx-font-weight: bold;
+}
+
+.button-hover{
+    -fx-background-color: #9be0b0;
+}
